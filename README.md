@@ -6,7 +6,7 @@
 
 -📫 How to reach me
 You can reach me via:
-- **Email:** [gauravgadilohar@gmail.com]
+- **Email:** [gauravgadilohar@outlook.com]
 - **GitHub:** [https://github.com/gauravgadilohar]
 - **LinkedIn:** [www.linkedin.com/in/gaurav-gadilohar-6330a720b]
 
