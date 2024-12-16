@@ -1,5 +1,5 @@
 Hi, I'm Gaurav Gadilohar 👋
-I’m a DevOps Intern with a keen interest in cloud infrastructure, automation, and modern DevOps practices. Currently, I'm learning and applying various tools and technologies that are critical to building scalable, reliable, and automated systems.
+I’m a DevOps Engineer with a keen interest in cloud infrastructure, automation, and modern DevOps practices. Currently, I'm learning and applying various tools and technologies that are critical to building scalable, reliable, and automated systems.
 
 🔧 My Skills & Tools
 Cloud Platforms: AWS (EC2, S3, Lambda, etc.)
@@ -11,7 +11,6 @@ Monitoring & Logging: Prometheus, Grafana, ELK stack
 Scripting & Automation: Bash, Python
 💡 What I’m Working On
 As a DevOps Intern, I'm currently involved in:
-
 Automating cloud infrastructure provisioning and management
 Building and optimizing CI/CD pipelines for faster, more reliable deployments
 Managing containerized applications using Docker and Kubernetes
